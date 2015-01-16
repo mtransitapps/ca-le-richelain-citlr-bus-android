@@ -1,0 +1,47 @@
+1101,0,'AM',11
+1100,0,'PM',11
+2100,0,'AM',21
+2101,0,'PM',21
+2201,0,'AM-PM',22
+2300,0,'AM-PM',23
+2800,0,'AM-PM',28
+2900,0,'AM-PM',29
+3100,0,'AM',31
+3101,0,'PM',31
+3200,0,'AM',32
+3201,0,'PM',32
+3300,0,'AM-PM',33
+3800,0,'AM-PM',38
+3900,0,'AM-PM',39
+11101,0,'AM',111
+11100,0,'PM',111
+11200,0,'AM',112
+11201,0,'PM',112
+12101,0,'Montréal',121
+12201,0,'Montréal',122
+12200,0,'Prairie',122
+12301,0,'Montréal',123
+12300,0,'Prairie',123
+12400,0,'Prairie',124
+12700,0,'Place Johanne',127
+12701,0,'Stationnement La Prairie',127
+12801,0,'Stationnement La Prairie',128
+13200,0,'Candiac',132
+13201,0,'Montréal',132
+13301,0,'Montréal',133
+13501,0,'Laliberté',135
+13500,0,'Stationnement Candiac',135
+13600,0,'Gare Candiac',136
+13601,0,'Stationnement Candiac',136
+15101,0,'Brossard',151
+15100,0,'Candiac',151
+32101,0,'Montréal',321
+32100,0,'Prairie',321
+32300,0,'Candiac',323
+32301,0,'Montréal',323
+34001,0,'Candiac',340
+34000,0,'Longueuil',340
+34100,0,'Longueuil',341
+34101,0,'Prairie',341
+34301,0,'Candiac',343
+34300,0,'Longueuil',343

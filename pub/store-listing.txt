@@ -1,0 +1,37 @@
+Title: CIT Le Richelain Bus (MonTransit)
+----------
+Short description: CIT Le Richelain bus information for MonTransit BETA.
+----------
+Full description:
+BETA: TEST IN PROGRESS
+To leave the test: http://goo.gl/5nZstV
+
+This application adds CIT Le Richelain bus information to MonTransit BETA.
+
+Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
+http://www.amt.qc.ca/developers/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
+
+This app is not related with the Agence Métropolitaine de Transport and CIT Le Richelain.
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
