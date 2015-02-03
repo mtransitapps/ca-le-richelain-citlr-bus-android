@@ -2,11 +2,17 @@ Title: Bus CIT Le Richelain (MonTransit)
 ----------
 Short description: Informations des bus CIT Le Richelain pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 27 Octobre 2014 au 13 Janvier 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/5nZstV
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus CIT Le Richelain à MonTransit BETA.
+
+Le CIT Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
