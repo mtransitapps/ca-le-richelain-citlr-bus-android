@@ -6,6 +6,7 @@ Horaires. Tweets de @CITLeRichelain
 ----------
 What's new in this version?:
 Horaires du 27 Octobre 2014 au 13 Janvier 2020.
+Tweets de @CITLeRichelain.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
