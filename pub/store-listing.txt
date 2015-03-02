@@ -1,16 +1,21 @@
-Title: CIT Le Richelain Bus (MonTransit)
+Title: CIT Le Richelain Bus - MonTra…
 ----------
-Short description: CIT Le Richelain bus information for MonTransit BETA.
+Short description:
+CIT Le Richelain bus for MonTransit BETA
+Schedule. Tweets from @CITLeRichelain
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from October 27, 2014 to January 13, 2020.
+Tweets from @CITLeRichelain.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds CIT Le Richelain bus information to MonTransit BETA.
+
+This app contains the bus schedule and the latest news from @CITLeRichelain on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 CIT Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
 
@@ -27,6 +32,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
 This app is not related with the Agence Métropolitaine de Transport and CIT Le Richelain.
+
+Permissions:
+- Other: required to read news (Twitter)
 ----------
 Application type: Applications
 ----------
