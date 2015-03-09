@@ -5,7 +5,7 @@ CIT Le Richelain bus for MonTransit BETA
 Schedule. Tweets from @CITLeRichelain
 ----------
 What's new in this version?:
-Schedule from October 27, 2014 to January 13, 2020.
+Schedule from December 8, 2014 to January 13, 2020.
 Tweets from @CITLeRichelain.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
