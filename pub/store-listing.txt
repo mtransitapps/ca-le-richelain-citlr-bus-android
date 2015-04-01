@@ -1,8 +1,8 @@
 Title: CIT Le Richelain Bus - MonTra…
 ----------
 Short description:
-CIT Le Richelain bus for MonTransit
-Schedule. Tweets from @CITLeRichelain
+CIT Le Richelain buses for MonTransit.
+Schedule. Tweets from @CITLeRichelain.
 ----------
 What's new in this version?:
 Schedule from December 8, 2014 to January 13, 2020.

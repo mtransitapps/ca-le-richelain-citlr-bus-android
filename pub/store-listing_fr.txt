@@ -1,8 +1,8 @@
 Title: Bus CIT Le Richelain - MonTra…
 ----------
 Short description:
-Autobus CIT Le Richelain pour MonTransit
-Horaires. Tweets de @CITLeRichelain
+Autobus CIT Le Richelain pour MonTransit.
+Horaires. Tweets de @CITLeRichelain.
 ----------
 What's new in this version?:
 Horaires du 8 Décembre 2014 au 13 Janvier 2020.
