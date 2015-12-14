@@ -5,7 +5,7 @@ Autobus CIT Le Richelain pour MonTransit.
 Horaires. Tweets de @CITLeRichelain.
 ----------
 What's new in this version?:
-Horaires du 24 août 2015 au 13 janvier 2020.
+Horaires du 24 août 2015 au 26 décembre 2015.
 Tweets de @CITLeRichelain.
 ----------
 Full description:
