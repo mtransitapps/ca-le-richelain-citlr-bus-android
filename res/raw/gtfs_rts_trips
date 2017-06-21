@@ -43,9 +43,9 @@
 32100,0,'Prairie',321
 32300,0,'Candiac',323
 32301,0,'Montréal',323
-34001,0,'Candiac',340
-34000,0,'Longueuil',340
-34100,0,'Longueuil',341
-34101,0,'Prairie',341
-34301,0,'Candiac',343
-34300,0,'Longueuil',343
+34001,0,'Cégep - Terminus Longueuil',340
+34000,0,'Terminus Longueuil - Cégep',340
+34100,0,'AM',341
+34101,0,'PM',341
+34300,0,'AM',343
+34301,0,'PM',343
