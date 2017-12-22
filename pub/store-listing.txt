@@ -5,7 +5,7 @@ CIT Le Richelain buses for MonTransit.
 Schedule. Tweets from @CITLeRichelain.
 ----------
 What's new in this version?:
-Schedule from September 26, 2017 to December 23, 2017.
+Schedule from December 24, 2017 to January 20, 2018.
 Tweets from @CITLeRichelain.
 ----------
 Full description:
