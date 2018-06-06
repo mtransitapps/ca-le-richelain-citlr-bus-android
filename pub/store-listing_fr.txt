@@ -1,19 +1,19 @@
-Title: Bus CIT Le Richelain - MonTra…
+Title: Bus RTM (CIT) Le Richelain - MonTra…
 ----------
 Short description:
-Autobus CIT Le Richelain pour MonTransit.
-Horaires. Tweets de @CITLeRichelain.
+Autobus RTM (CIT) Le Richelain pour MonTransit.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 27 mai 2018 au 13 janvier 2020.
-Tweets de @CITLeRichelain.
+Tweets de @exo_LeRichelain.
 ----------
 Full description:
-Cette application ajoute les informations des autobus CIT Le Richelain à MonTransit.
+Cette application ajoute les informations des autobus RTM (CIT) Le Richelain à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @CITLeRichelain sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @exo_LeRichelain sur Twitter.
 
-Le CIT Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
+Le RTM (CIT) Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -27,7 +27,7 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Le Richelain.
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Le Richelain.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)
