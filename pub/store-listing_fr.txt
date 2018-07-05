@@ -5,6 +5,7 @@ Autobus exo Le Richelain pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 27 mai 2018 au 13 janvier 2020.
 Tweets de @exo_LeRichelain.
 ----------
