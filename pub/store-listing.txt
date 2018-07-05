@@ -30,8 +30,8 @@ https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Le Richelain.
 
-exo Le Richelain was formely know as RTM Le Richelain sector and CIT Le Richelain.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Le Richelain was formerly known as RTM Le Richelain sector and CIT Le Richelain.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)
