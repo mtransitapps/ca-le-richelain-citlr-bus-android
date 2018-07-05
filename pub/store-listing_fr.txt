@@ -1,7 +1,7 @@
-Title: Bus RTM (CIT) Le Richelain - MonTra…
+Title: Bus exo Le Richelain - MonTransit
 ----------
 Short description:
-Autobus RTM (CIT) Le Richelain pour MonTransit.
+Autobus exo Le Richelain pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
@@ -9,11 +9,11 @@ Horaires du 27 mai 2018 au 13 janvier 2020.
 Tweets de @exo_LeRichelain.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM (CIT) Le Richelain à MonTransit.
+Cette application ajoute les informations des autobus exo Le Richelain à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_LeRichelain sur Twitter.
 
-Le RTM (CIT) Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
+exo Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -21,13 +21,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Le Richelain.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Le Richelain.
+
+exo Le Richelain était précédemment connu sous le nom de RTM Secteur Le Richelain et CIT Le Richelain.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)

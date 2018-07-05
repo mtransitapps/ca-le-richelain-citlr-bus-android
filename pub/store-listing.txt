@@ -1,19 +1,20 @@
-Title: RTM (CIT) Le Richelain Bus - MonTra…
+Title: exo Le Richelain Bus - MonTransit
 ----------
 Short description:
-RTM (CIT) Le Richelain buses for MonTransit.
+exo Le Richelain buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Schedule from May 27, 2018 to January 13, 2020.
 Tweets from @exo_LeRichelain.
 ----------
 Full description:
-This application adds RTM (CIT) Le Richelain buses information to MonTransit.
+This application adds exo Le Richelain buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @exo_LeRichelain on Twitter.
 
-RTM (CIT) Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
+exo Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -21,13 +22,16 @@ This application only has a temporary icon and no screen: download the MonTransi
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/en/about/open-data
+The information comes from the GTFS file provided by the Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and RTM (CIT) Le Richelain.
+This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Le Richelain.
+
+exo Le Richelain was formely know as RTM Le Richelain sector and CIT Le Richelain.
+exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)
