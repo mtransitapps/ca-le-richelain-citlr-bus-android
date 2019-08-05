@@ -93,7 +93,7 @@
 75136,'75136','Ernest-Rochette / Francois-Le-Ber',45.418458,-73.4784
 75137,'75137','Ernest-Rochette / Patrick-McGee',45.417108,-73.482044
 75138,'75138','Ernest-Rochette / Place Alexandre',45.417653,-73.485595
-75140,'75140','Stationnement Incitatif La Prairie',45.426171,-73.481053
+75140,'75140','Stationnement Incitatif La Prairie Quai 1',45.426265,-73.48125
 75141,'75141','St-Jean / Bataille',45.389333,-73.403692
 75149,'75149','Taschereau / St-Henri',45.41398,-73.490956
 75150,'75150','Notre-Dame / St-Henri',45.415604,-73.494666
@@ -185,9 +185,9 @@
 75258,'75258','Ségovie / Sardaigne',45.370396,-73.508104
 75259,'75259','Seine / Jean-Leman',45.36858,-73.507026
 75260,'75260','Terminus Mansfield',45.49838,-73.564151
-75261,'75261','Terminus Centre-Ville - Métro Bonaventure',45.498295,-73.565898
+75261,'75261','Terminus Centre-Ville Porte 15',45.498082,-73.565996
 75262,'75262','Terminus Mansfield (Mansfield / St-Antoine) - Quai 2',45.498417,-73.56422
-75263,'75263','Terminus Centre-Ville',45.498377,-73.566056
+75263,'75263','Terminus Centre-Ville Porte 14',45.498109,-73.565956
 75265,'75265','Rang Sanguinet / Édouard-VII',45.37026,-73.483675
 75266,'75266','Rang Sanguinet / Catalpas',45.374625,-73.494722
 75267,'75267','Rang Sanguinet / Catalpas',45.374578,-73.494867
@@ -260,7 +260,7 @@
 75347,'75347','Place Johanne / St-Jean',45.387587,-73.395479
 75349,'75349','Haendel / Flandres',45.383919,-73.525047
 75367,'75367','Paul-Gaugin / Liberté',45.373149,-73.526418
-75372,'75372','Jean-Leman / Montcalm',45.380763,-73.507804
+75372,'75372','Montcalm / Jean-Leman',45.380763,-73.507804
 75375,'75375','Flandres / Frontenac',45.382615,-73.521185
 75376,'75376','Frontenac / Flandres',45.379505,-73.521552
 75377,'75377','Flandres / Fouquet',45.378973,-73.524433
