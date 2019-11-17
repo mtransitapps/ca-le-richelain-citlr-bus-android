@@ -1,15 +1,3 @@
-Title: exo Le Richelain Bus - MonTransit
-----------
-Short description:
-exo Le Richelain buses for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-(AMT/CIT => RTM => exo)
-Schedule from October 7, 2019 to November 24, 2019.
-Tweets from @exo_LeRichelain.
-----------
-Full description:
 This application adds exo Le Richelain buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @exo_LeRichelain on Twitter.
@@ -18,7 +6,7 @@ exo Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and S
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -35,17 +23,3 @@ exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence M
 
 Permissions:
 - Other: required to read news (Twitter)
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
