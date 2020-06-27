@@ -1,3 +1,5 @@
+74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
+74701,'74701','Robert-Bourassa / Ottawa',45.496329,-73.557851
 75001,'75001','St-Jean / Palerme',45.40896,-73.473001
 75002,'75002','St-Jean / Champs-Fleuris',45.408893,-73.472333
 75003,'75003','Belle-Dame / Vice-Roi',45.402074,-73.466463
@@ -13,13 +15,7 @@
 75028,'75028','Granger / Ormes Ouest',45.357377,-73.478278
 75029,'75029','Ormes Ouest / Édouard-VII',45.358288,-73.478194
 75030,'75030','Terminus Longueuil Porte 23',45.52361,-73.522245
-75031,'75031','Cégep Édouard-Montpetit',45.536625,-73.495638
 75032,'75032','Terminus Panama Temporaire Quai 14',45.465765,-73.469865
-75035,'75035','Cégep Édouard-Montpetit',45.536801,-73.49587
-75037,'75037','Chambly / St-Charles Ouest',45.540544,-73.507864
-75038,'75038','Chambly / St-Charles Est',45.540865,-73.507986
-75039,'75039','Roland-Therrien / Auteuil',45.548627,-73.495801
-75040,'75040','Roland-Therrien / Auteuil',45.547456,-73.49489
 75041,'75041','St-François-Xavier / Place Mercier',45.396782,-73.529697
 75042,'75042','Terminus Panama Temporaire Quai 14',45.465723,-73.470149
 75043,'75043','St-José / Augustin',45.391694,-73.495714
@@ -336,8 +332,6 @@
 75459,'75459','Barcelone / Baffin',45.384482,-73.513539
 75460,'75460','Montcalm Sud / Barcelone',45.390147,-73.512447
 75461,'75461','Industrie / Devant Le #100',45.402033,-73.508434
-75465,'75465','Robert-Bourassa / William',45.49744,-73.558503
-75466,'75466','Robert-Bourassa / Ottawa',45.496306,-73.557793
 75467,'75467','Palerme / Pinsonneault',45.402888,-73.473097
 75469,'75469','Jean-Baptiste-Varin / Palerme',45.400783,-73.475175
 75470,'75470','Palerme / Jean-Baptiste-Varin',45.400909,-73.475012
