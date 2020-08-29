@@ -1,3 +1,4 @@
+74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
 74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
 74701,'74701','Robert-Bourassa / Ottawa',45.496329,-73.557851
 75001,'75001','St-Jean / Palerme',45.40896,-73.473001
@@ -15,7 +16,13 @@
 75028,'75028','Granger / Ormes Ouest',45.357377,-73.478278
 75029,'75029','Ormes Ouest / Édouard-VII',45.358288,-73.478194
 75030,'75030','Terminus Longueuil Porte 23',45.52361,-73.522245
+75031,'75031','Cégep Édouard-Montpetit',45.536625,-73.495638
 75032,'75032','Terminus Panama Temporaire Quai 14',45.465765,-73.469865
+75035,'75035','Cégep Édouard-Montpetit',45.536801,-73.49587
+75037,'75037','Chambly / St-Charles Ouest',45.540544,-73.507864
+75038,'75038','Chambly / St-Charles Est',45.540865,-73.507986
+75039,'75039','Roland-Therrien / Auteuil',45.548627,-73.495801
+75040,'75040','Roland-Therrien / Auteuil',45.547456,-73.49489
 75041,'75041','St-François-Xavier / Place Mercier',45.396782,-73.529697
 75042,'75042','Terminus Panama Temporaire Quai 14',45.465723,-73.470149
 75043,'75043','St-José / Augustin',45.391694,-73.495714
@@ -63,7 +70,6 @@
 75096,'75096','Place De Chambord / Champagne',45.379199,-73.508854
 75097,'75097','Dauphiné / Jean-Leman',45.378597,-73.503635
 75101,'75101','Barcelone / Montcalm Sud',45.390024,-73.512548
-75102,'75102','Montcalm Nord / Haendel',45.392841,-73.516925
 75103,'75103','Industrie / Montcalm Nord',45.392173,-73.515011
 75104,'75104','Industrie / Montcalm Nord',45.392263,-73.515121
 75106,'75106','Montcalm Nord / Marie-Victorin',45.400104,-73.523124
@@ -183,7 +189,6 @@
 75257,'75257','Gare Candiac',45.360664,-73.514646
 75258,'75258','Ségovie / Sardaigne',45.370396,-73.508104
 75259,'75259','Seine / Jean-Leman',45.36858,-73.507026
-75260,'75260','Terminus Mansfield',45.49838,-73.564151
 75261,'75261','Terminus Centre-Ville Porte 15',45.498082,-73.565996
 75262,'75262','Terminus Mansfield (Mansfield / St-Antoine) - Quai 2',45.498417,-73.56422
 75263,'75263','Terminus Centre-Ville Porte 14',45.498109,-73.565956
