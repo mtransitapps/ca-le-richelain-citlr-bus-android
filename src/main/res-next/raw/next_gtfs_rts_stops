@@ -53,7 +53,7 @@
 75072,'75072','Jaffa / Jackson',45.3926,-73.529816
 75073,'75073','St-François-Xavier / Monaco',45.390339,-73.532728
 75074,'75074','Genève / Goethe',45.385225,-73.529734
-75076,'75076','Haendel / Devant Le Complexe Roméo-V.-Patenaude',45.384102,-73.524806
+75076,'75076','Haendel / Devant Le Complexe Roméo-V-Patenaude',45.384102,-73.524806
 75078,'75078','Industrie / #172',45.394647,-73.511799
 75079,'75079','Industrie / Devant Le #170',45.394759,-73.511961
 75081,'75081','Auteuil / Club De Golf Candiac',45.390032,-73.501464
@@ -131,7 +131,7 @@
 75182,'75182','Notre-Dame / St-Jean',45.418245,-73.492122
 75183,'75183','Balmoral / Notre-Dame',45.421016,-73.49029
 75184,'75184','Bernier / Industrielle',45.400589,-73.496766
-75185,'75185','Maire / P.-É.-Lamarche',45.416043,-73.479488
+75185,'75185','Maire / P-É.-Lamarche',45.416043,-73.479488
 75186,'75186','Champs-Fleuris / St-Jean',45.409381,-73.472056
 75187,'75187','Champs-Fleuris / St-Jean',45.40942,-73.472415
 75189,'75189','Palerme / St-Jean',45.408696,-73.473085
@@ -280,7 +280,7 @@
 75390,'75390','Ernest-Rochette / Patrick-McGee',45.416953,-73.482107
 75391,'75391','Ernest-Rochette / Francois-Le-Ber',45.418396,-73.478657
 75392,'75392','Ernest-Rochette / Maire',45.417211,-73.47538
-75393,'75393','Maire / P.-É.-Lamarche',45.416214,-73.479406
+75393,'75393','Maire / P-É.-Lamarche',45.416214,-73.479406
 75394,'75394','Maire / Rosaire-Circe',45.415326,-73.484668
 75395,'75395','Champs-Fleuris / Prés-Verts',45.412845,-73.469825
 75396,'75396','Palerme / Parc-Des-Érables',45.408,-73.473709
@@ -392,7 +392,7 @@
 75576,'75576','St-Laurent / St-Henri',45.416507,-73.496615
 75577,'75577','Notre-Dame / St-Henri',45.415871,-73.494627
 75578,'75578','Longtin / St-Laurent',45.413421,-73.499113
-75579,'75579','St-Laurent / Opp. Contre Guy-Dupré',45.415119,-73.497642
+75579,'75579','St-Laurent / Opp Contre Guy-Dupré',45.415119,-73.497642
 75580,'75580','St-Laurent / St-Henri',45.416486,-73.496396
 75600,'75600','Palerme / Croissant-Perlé',45.397138,-73.473113
 75601,'75601','Belle-Dame / Palerme',45.397017,-73.470542
