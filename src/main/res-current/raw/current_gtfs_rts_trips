@@ -1,17 +1,15 @@
 1100,0,'St-Phillipe',11
-1101,0,'Stat Incitatif Montcalm-Candiac',11
+1101,0,'Stat Incitatif Candiac',11
 2100,0,'Vieux La Prairie AM',21
 2101,0,'Vieux La Prairie PM',21
 2201,0,'Champs-De La Magdelaine',22
 2300,0,'Palerme',23
-2501,0,'Stat Incitatif La Prairie',25
 2500,0,'Symbiocité',25
 2800,0,'Prairie',28
 2900,0,'Prairie',29
 3100,0,'Auteuil – Jean-Leman – Barcelone AM',31
 3101,0,'Auteuil – Jean-Leman – Barcelone PM',31
-3200,0,'AM',32
-3201,0,'PM',32
+3200,0,'Deauville – Charlemagne – Barcelone',32
 3300,0,'St-François-Xav – Fouquet – Haendel',33
 3800,0,'Auteuil – Deauville – Barcelone',38
 3900,0,'St-José – St-F-Haendel',39
@@ -19,18 +17,18 @@
 12301,0,'Terminus Mansfield',123
 12400,0,'Prairie',124
 12401,0,'Terminus Mansfield',124
-32100,0,'Stat Incitatif La Prairie',321
+32100,0,'Prairie',321
 32101,0,'Terminus Centre-Ville',321
-32300,0,'Stat Incitatif Montcalm-Candiac',323
+32300,0,'Candiac',323
 32301,0,'Terminus Centre-Ville',323
-34000,0,'Candiac-La Prairie-Longueuil-Cégep É-M 0',340
-34001,0,'Candiac-La Prairie-Longueuil-Cégep É-M 1',340
-34100,0,'Prairie-Longueuil-Cégep É-M 0',341
-34101,0,'Prairie-Longueuil-Cégep É-M 1',341
-34300,0,'Candiac-Longueuil-Cégep É-M 0',343
-34301,0,'Candiac-Longueuil-Cégep É-M 1',343
+34001,0,'PM',340
+34000,0,'Édouard-Montpetit',340
+34100,0,'AM',341
+34101,0,'PM',341
+34300,0,'AM',343
+34301,0,'PM',343
 2001100,0,'St-Phillipe',20011
-2001101,0,'Stat Incitatif Montcalm-Candiac',20011
+2001101,0,'Stat Incitatif Candiac',20011
 2001200,0,'Stat Incitatif La Prairie',20012
 2001201,0,'Édouard-XII',20012
 2002200,0,'Clairière',20022
@@ -38,9 +36,9 @@
 2002701,0,'Stat Incitatif La Prairie',20027
 2002801,0,'Stat Incitatif La Prairie',20028
 2003501,0,'Industriel Candiac',20035
-2003500,0,'Stat Incitatif Montcalm-Candiac',20035
+2003500,0,'Stat Incitatif Candiac',20035
 2003600,0,'Gare Candiac',20036
-2003601,0,'Stat Incitatif Montcalm-Candiac',20036
+2003601,0,'Stat Incitatif Candiac',20036
 2003700,0,'Strasbourg',20037
 2005100,0,'Candiac',20051
 2005101,0,'Terminus Panama',20051
