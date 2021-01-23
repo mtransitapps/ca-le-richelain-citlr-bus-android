@@ -14,13 +14,13 @@
 3800,0,'Auteuil – Deauville – Barcelone',38
 3900,0,'St-José – St-F-Haendel',39
 12300,0,'Prairie',123
-12301,0,'Terminus Mansfield',123
+12301,0,'Term Mansfield',123
 12400,0,'Prairie',124
-12401,0,'Terminus Mansfield',124
+12401,0,'Term Mansfield',124
 32100,0,'Prairie',321
-32101,0,'Terminus Centre-Ville',321
+32101,0,'Term Centre-Ville',321
 32300,0,'Candiac',323
-32301,0,'Terminus Centre-Ville',323
+32301,0,'Term Centre-Ville',323
 34001,0,'PM',340
 34000,0,'Édouard-Montpetit',340
 34100,0,'AM',341
@@ -41,4 +41,4 @@
 2003601,0,'Stat Incitatif Candiac',20036
 2003700,0,'Strasbourg',20037
 2005100,0,'Candiac',20051
-2005101,0,'Terminus Panama',20051
+2005101,0,'Term Panama',20051
