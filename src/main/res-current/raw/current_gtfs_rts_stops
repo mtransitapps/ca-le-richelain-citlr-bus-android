@@ -1,4 +1,4 @@
-74464,'74464','Terminus Panama Temporaire Quai 11',45.46605,-73.470511
+74464,'74464','Term Panama Temp Q:11',45.46605,-73.470511
 74529,'74529','Robert-Bourassa / William',45.497412,-73.558424
 74701,'74701','Robert-Bourassa / Ottawa',45.496329,-73.557851
 75001,'75001','St-Jean / Palerme',45.40896,-73.473001
@@ -7,72 +7,72 @@
 75004,'75004','Belle-Dame / Vice-Roi II',45.401849,-73.466363
 75017,'75017','Taschereau / Rome',45.454576,-73.46574
 75018,'75018','Taschereau / Rome',45.454858,-73.465159
-75020,'75020','Gaulle Sud / Perrier',45.369181,-73.489874
-75021,'75021','Ormes Ouest / Édouard-VII',45.358415,-73.478541
-75022,'75022','Gaulle Sud / Perrier',45.369014,-73.489764
-75025,'75025','Granger / Ormes Ouest',45.357291,-73.47844
+75020,'75020','Gaulle S / Perrier',45.369181,-73.489874
+75021,'75021','Ormes O / Édouard-VII',45.358415,-73.478541
+75022,'75022','Gaulle S / Perrier',45.369014,-73.489764
+75025,'75025','Granger / Ormes O',45.357291,-73.47844
 75026,'75026','Granger / Mercier',45.356122,-73.480509
 75027,'75027','Mercier / Granger',45.355968,-73.480407
-75028,'75028','Granger / Ormes Ouest',45.357377,-73.478278
-75029,'75029','Ormes Ouest / Édouard-VII',45.358288,-73.478194
-75030,'75030','Terminus Longueuil Porte 23',45.52361,-73.522245
+75028,'75028','Granger / Ormes O',45.357377,-73.478278
+75029,'75029','Ormes O / Édouard-VII',45.358288,-73.478194
+75030,'75030','Term Longueuil P:23',45.52361,-73.522245
 75031,'75031','Cégep Édouard-Montpetit',45.536625,-73.495638
-75032,'75032','Terminus Panama Temporaire Quai 14',45.465765,-73.469865
+75032,'75032','Term Panama Temp Q:14',45.465765,-73.469865
 75035,'75035','Cégep Édouard-Montpetit',45.536801,-73.49587
-75037,'75037','Chambly / St-Charles Ouest',45.540544,-73.507864
-75038,'75038','Chambly / St-Charles Est',45.540865,-73.507986
+75037,'75037','Chambly / St-Charles O',45.540544,-73.507864
+75038,'75038','Chambly / St-Charles E',45.540865,-73.507986
 75039,'75039','Roland-Therrien / Auteuil',45.548627,-73.495801
 75040,'75040','Roland-Therrien / Auteuil',45.547456,-73.49489
-75041,'75041','St-François-Xavier / Place Mercier',45.396782,-73.529697
-75042,'75042','Terminus Panama Temporaire Quai 14',45.465723,-73.470149
+75041,'75041','St-François-Xavier / Pl Mercier',45.396782,-73.529697
+75042,'75042','Term Panama Temp Q:14',45.465723,-73.470149
 75043,'75043','St-José / Augustin',45.391694,-73.495714
 75045,'75045','Jaffa / Champlain',45.392471,-73.528123
 75046,'75046','St-François-Xavier / Jaffa',45.391856,-73.532795
 75047,'75047','Gatineau / St-François-Xavier',45.386882,-73.532502
 75048,'75048','Gatineau / Genève',45.386776,-73.530187
 75049,'75049','Genève / Haendel',45.38265,-73.52746
-75051,'75051','Montcalm Sud / Barcelone',45.390189,-73.512817
-75052,'75052','Montcalm Sud / Auteuil',45.387629,-73.507759
+75051,'75051','Montcalm S / Barcelone',45.390189,-73.512817
+75052,'75052','Montcalm S / Auteuil',45.387629,-73.507759
 75053,'75053','Papineau / Picardie',45.399471,-73.50589
-75055,'75055','Montcalm Sud / Devant Le Centre Frank-Vocino',45.390772,-73.513285
+75055,'75055','Montcalm S / Ctr Frank-Vocino',45.390772,-73.513285
 75056,'75056','Auteuil / Anjou',45.389371,-73.5046
-75057,'75057','Industrie / Léon-Bloy Ouest',45.403524,-73.507927
-75058,'75058','Auteuil / Devant Le Club De Golf Candiac',45.389909,-73.501432
-75059,'75059','Montcalm Sud / Place Berlioz',45.385247,-73.50633
-75060,'75060','Haendel / Place Halifax (2)',45.389156,-73.518377
+75057,'75057','Industrie / Léon-Bloy O',45.403524,-73.507927
+75058,'75058','Auteuil / Club De Golf Candiac',45.389909,-73.501432
+75059,'75059','Montcalm S / Pl Berlioz',45.385247,-73.50633
+75060,'75060','Haendel / Pl Halifax (2)',45.389156,-73.518377
 75061,'75061','Industrie / Ibéria',45.397528,-73.509177
 75062,'75062','Industrie / Ibéria',45.397799,-73.509225
 75063,'75063','Jean-Leman / Bercy',45.382375,-73.511447
-75064,'75064','Jean-Leman / Devant Le #54',45.381676,-73.509818
+75064,'75064','Jean-Leman / #54',45.381676,-73.509818
 75065,'75065','Barcelone / Bercy',45.384297,-73.51326
-75066,'75066','Barcelone / Place De Bohême',45.386277,-73.513963
+75066,'75066','Barcelone / Pl De Bohême',45.386277,-73.513963
 75067,'75067','Auteuil / Adélaïde',45.390087,-73.499151
-75068,'75068','Montcalm Sud / Asselin (2)',45.38278,-73.506296
+75068,'75068','Montcalm S / Asselin (2)',45.38278,-73.506296
 75069,'75069','Auteuil / Augustin',45.391457,-73.49572
-75070,'75070','Auteuil / Montcalm Sud',45.387772,-73.5077
+75070,'75070','Auteuil / Montcalm S',45.387772,-73.5077
 75072,'75072','Jaffa / Jackson',45.3926,-73.529816
 75073,'75073','St-François-Xavier / Monaco',45.390339,-73.532728
 75074,'75074','Genève / Goethe',45.385225,-73.529734
-75076,'75076','Haendel / Devant Le Complexe Roméo-V-Patenaude',45.384102,-73.524806
+75076,'75076','Haendel / Complexe Roméo-V-Patenaude',45.384102,-73.524806
 75078,'75078','Industrie / #172',45.394647,-73.511799
-75079,'75079','Industrie / Devant Le #170',45.394759,-73.511961
+75079,'75079','Industrie / #170',45.394759,-73.511961
 75081,'75081','Auteuil / Club De Golf Candiac',45.390032,-73.501464
 75082,'75082','Auteuil / Adélaïde',45.390236,-73.4989
-75083,'75083','Place De Chambord / Jean-Leman',45.380539,-73.50779
-75084,'75084','Jean-Leman / Montcalm Sud',45.38091,-73.508213
+75083,'75083','Pl De Chambord / Jean-Leman',45.380539,-73.50779
+75084,'75084','Jean-Leman / Montcalm S',45.38091,-73.508213
 75085,'75085','Auteuil / Anjou',45.389619,-73.504348
-75088,'75088','Barcelone / Place De Bretagne',45.388292,-73.513535
-75089,'75089','Montcalm Nord / Hôtel De Ville',45.394824,-73.518423
-75090,'75090','Montcalm Nord / #108',45.39691,-73.519981
-75091,'75091','Montcalm Nord / Inverness',45.398579,-73.521364
-75092,'75092','Champlain / Place Jason',45.395176,-73.528301
+75088,'75088','Barcelone / Pl De Bretagne',45.388292,-73.513535
+75089,'75089','Montcalm N / Hôtel De Ville',45.394824,-73.518423
+75090,'75090','Montcalm N / #108',45.39691,-73.519981
+75091,'75091','Montcalm N / Inverness',45.398579,-73.521364
+75092,'75092','Champlain / Pl Jason',45.395176,-73.528301
 75094,'75094','Jean-Leman / Barcelone',45.382625,-73.51327
-75096,'75096','Place De Chambord / Champagne',45.379199,-73.508854
+75096,'75096','Pl De Chambord / Champagne',45.379199,-73.508854
 75097,'75097','Dauphiné / Jean-Leman',45.378597,-73.503635
-75101,'75101','Barcelone / Montcalm Sud',45.390024,-73.512548
-75103,'75103','Industrie / Montcalm Nord',45.392173,-73.515011
-75104,'75104','Industrie / Montcalm Nord',45.392263,-73.515121
-75106,'75106','Montcalm Nord / Marie-Victorin',45.400104,-73.523124
+75101,'75101','Barcelone / Montcalm S',45.390024,-73.512548
+75103,'75103','Industrie / Montcalm N',45.392173,-73.515011
+75104,'75104','Industrie / Montcalm N',45.392263,-73.515121
+75106,'75106','Montcalm N / Marie-Victorin',45.400104,-73.523124
 75108,'75108','St-François-Xavier / Marie-Victorin',45.398179,-73.527275
 75110,'75110','Perras / Parc-Des-Érables',45.406017,-73.469751
 75111,'75111','Parc-Des-Érables / Providence',45.406933,-73.471319
@@ -98,8 +98,8 @@
 75135,'75135','Maire / Ernest-Rochette',45.417033,-73.475401
 75136,'75136','Ernest-Rochette / Francois-Le-Ber',45.418458,-73.4784
 75137,'75137','Ernest-Rochette / Patrick-McGee',45.417108,-73.482044
-75138,'75138','Ernest-Rochette / Place Alexandre',45.417653,-73.485595
-75140,'75140','Stat Incitatif La Prairie Quai 1',45.426265,-73.48125
+75138,'75138','Ernest-Rochette / Pl Alexandre',45.417653,-73.485595
+75140,'75140','P+R La Prairie Q:1',45.426265,-73.48125
 75141,'75141','St-Jean / Bataille',45.389333,-73.403692
 75149,'75149','Taschereau / St-Henri',45.41398,-73.490956
 75150,'75150','Notre-Dame / St-Henri',45.415604,-73.494666
@@ -139,7 +139,7 @@
 75192,'75192','Industrielle / Bernier',45.400834,-73.496867
 75193,'75193','St-José / Industrielle',45.403098,-73.494729
 75194,'75194','Taschereau / Conrad-Pelletier',45.401865,-73.501445
-75195,'75195','Taschereau / Léon-Bloy Est',45.400899,-73.502674
+75195,'75195','Taschereau / Léon-Bloy E',45.400899,-73.502674
 75196,'75196','Bernier / St-José',45.39865,-73.492178
 75198,'75198','Taschereau / Papineau',45.398995,-73.505076
 75200,'75200','St-Jean / Aux Cours Du Grand-Boisé',45.406586,-73.467748
@@ -181,7 +181,7 @@
 75245,'75245','St-José / Taschereau',45.405485,-73.497396
 75246,'75246','St-José / Commune',45.406173,-73.499669
 75247,'75247','Balmoral / Beaumont',45.423172,-73.491329
-75248,'75248','Balmoral / Place Beausoleil',45.423359,-73.49145
+75248,'75248','Balmoral / Pl Beausoleil',45.423359,-73.49145
 75249,'75249','Balmoral / Beaumont',45.423677,-73.489016
 75251,'75251','Palerme (Arrêt Suivant La Rue Perron)',45.403,-73.473488
 75252,'75252','Palerme / Perras',45.403783,-73.47374
@@ -189,9 +189,9 @@
 75257,'75257','Gare Candiac',45.360664,-73.514646
 75258,'75258','Ségovie / Sardaigne',45.370396,-73.508104
 75259,'75259','Seine / Jean-Leman',45.36858,-73.507026
-75261,'75261','Terminus Centre-Ville Porte 15',45.498082,-73.565996
-75262,'75262','Terminus Mansfield (Mansfield / St-Antoine) - Quai 2',45.498417,-73.56422
-75263,'75263','Terminus Centre-Ville Porte 14',45.498109,-73.565956
+75261,'75261','Term Ctr-Ville P:15',45.498082,-73.565996
+75262,'75262','Term Mansfield (Mansfield / St-Antoine) Q:2',45.498417,-73.56422
+75263,'75263','Term Ctr-Ville P:14',45.498109,-73.565956
 75265,'75265','Sanguinet / Édouard-VII',45.37026,-73.483675
 75266,'75266','Sanguinet / Catalpas',45.374625,-73.494722
 75267,'75267','Sanguinet / Catalpas',45.374578,-73.494867
@@ -202,69 +202,69 @@
 75272,'75272','Édouard-VII / Sanguinet',45.370206,-73.483121
 75273,'75273','Perron / Lavallée',45.355977,-73.47885
 75274,'75274','Perron / Lavallée',45.355773,-73.478906
-75275,'75275','Montée St-Claude / Rang St-Marc',45.351266,-73.469411
-75276,'75276','Rang St-Marc / Montée St-Claude',45.351194,-73.46963
-75277,'75277','Montée St-Claude / Devant Le #55',45.352606,-73.466461
-75278,'75278','Montée St-Claude / Devant Le #46',45.352566,-73.466259
+75275,'75275','Mtée St-Claude / Rang St-Marc',45.351266,-73.469411
+75276,'75276','Rang St-Marc / Mtée St-Claude',45.351194,-73.46963
+75277,'75277','Mtée St-Claude / #55',45.352606,-73.466461
+75278,'75278','Mtée St-Claude / #46',45.352566,-73.466259
 75279,'75279','Édouard-VII / Rive (2)',45.364319,-73.48311
 75280,'75280','Édouard-VII / Rive (1)',45.364206,-73.482788
-75281,'75281','Gaulle Sud / José',45.36809,-73.490285
+75281,'75281','Gaulle S / José',45.36809,-73.490285
 75282,'75282','Édouard-VII / Église St-Philippe',45.354008,-73.475063
-75283,'75283','Édouard-VII / Devant L''Église St-Philippe',45.353956,-73.475278
-75284,'75284','Édouard-VII / Devant La Bibliothèque',45.361222,-73.480721
+75283,'75283','Édouard-VII / Église St-Philippe',45.353956,-73.475278
+75284,'75284','Édouard-VII / Bibliothèque',45.361222,-73.480721
 75285,'75285','Édouard-VII / Bibliothèque',45.361136,-73.481032
 75286,'75286','Benoît / Lucien',45.373575,-73.477422
 75287,'75287','Benoît / Lucien',45.373478,-73.477285
 75288,'75288','Édouard-VII / Rive (2)',45.36565,-73.483131
 75289,'75289','Édouard-VII / Rive (1)',45.365872,-73.483485
-75291,'75291','José / Gaulle Sud',45.367973,-73.490469
-75292,'75292','Édouard-VII / Rang St-Joseph Nord',45.380356,-73.479079
-75293,'75293','Édouard-VII / Rang St-Joseph Nord',45.380258,-73.478896
+75291,'75291','José / Gaulle S',45.367973,-73.490469
+75292,'75292','Édouard-VII / Rang St-Joseph N',45.380356,-73.479079
+75293,'75293','Édouard-VII / Rang St-Joseph N',45.380258,-73.478896
 75294,'75294','Lucien / Édouard-VII',45.375488,-73.481224
 75295,'75295','Édouard-VII / Lucien',45.375395,-73.481323
 75296,'75296','Fourestier / Édouard-VII',45.38517,-73.474573
 75297,'75297','Perron / Édouard-VII',45.356856,-73.476696
 75298,'75298','Édouard-VII / Fourestier',45.385069,-73.474499
-75299,'75299','Édouard-VII / Montée Monette',45.352849,-73.474228
-75300,'75300','Édouard-VII / Montée Monette',45.352817,-73.474392
+75299,'75299','Édouard-VII / Mtée Monette',45.352849,-73.474228
+75300,'75300','Édouard-VII / Mtée Monette',45.352817,-73.474392
 75301,'75301','Édouard-VII / Perron',45.35693,-73.476546
 75303,'75303','Édouard-VII / Noyers',45.359759,-73.479322
 75304,'75304','Édouard-VII / Noyers',45.359671,-73.479553
-75305,'75305','Foucreault / Devant Le #80',45.352577,-73.48007
-75310,'75310','Édouard-VII / Devant Le #1775',45.374138,-73.482949
+75305,'75305','Foucreault / #80',45.352577,-73.48007
+75310,'75310','Édouard-VII / #1775',45.374138,-73.482949
 75311,'75311','Édouard-VII / #1775',45.374091,-73.483311
 75317,'75317','Foucreault / #10',45.353367,-73.478273
-75318,'75318','Rang St-Marc / Montée Monette',45.353222,-73.471356
-75319,'75319','Montée Monette / Rang St-Marc',45.353088,-73.471804
-75320,'75320','Rathé / Montée St-Claude',45.360311,-73.448141
-75321,'75321','Montée St-Claude / Rathé',45.360224,-73.448348
-75322,'75322','Montée St-Claude / St-Pierre (1)',45.3597,-73.449836
-75323,'75323','Montée St-Claude / St-Pierre (2)',45.359501,-73.449992
+75318,'75318','Rang St-Marc / Mtée Monette',45.353222,-73.471356
+75319,'75319','Mtée Monette / Rang St-Marc',45.353088,-73.471804
+75320,'75320','Rathé / Mtée St-Claude',45.360311,-73.448141
+75321,'75321','Mtée St-Claude / Rathé',45.360224,-73.448348
+75322,'75322','Mtée St-Claude / St-Pierre (1)',45.3597,-73.449836
+75323,'75323','Mtée St-Claude / St-Pierre (2)',45.359501,-73.449992
 75324,'75324','Jean-Leman / Charlemagne',45.37541,-73.504394
 75325,'75325','St-Claude / St-Pierre',45.358374,-73.453669
 75326,'75326','St-Claude / St-Pierre',45.358234,-73.453692
-75327,'75327','Montée St-Claude / Fernande',45.357293,-73.455853
-75328,'75328','Montée St-Claude / Fernande',45.357056,-73.456177
-75329,'75329','Montée St-Claude / Hébert',45.356008,-73.459189
-75330,'75330','Montée St-Claude / Hébert',45.35586,-73.45924
+75327,'75327','Mtée St-Claude / Fernande',45.357293,-73.455853
+75328,'75328','Mtée St-Claude / Fernande',45.357056,-73.456177
+75329,'75329','Mtée St-Claude / Hébert',45.356008,-73.459189
+75330,'75330','Mtée St-Claude / Hébert',45.35586,-73.45924
 75331,'75331','Édouard-VII / Foucreault',45.355025,-73.47544
 75332,'75332','St-Jean / Fontarabie',45.396739,-73.446624
 75333,'75333','Édouard-VII / Foucreault',45.354955,-73.475217
 75334,'75334','St-Jean / Rang Lafrenière',45.391507,-73.417276
 75335,'75335','St-Jean / Monette',45.389907,-73.410766
-75337,'75337','Place Johanne / 7265',45.387756,-73.391726
-75338,'75338','Place Johanne / 7355',45.387232,-73.387583
-75339,'75339','Place Johanne / 7520',45.386499,-73.38977
+75337,'75337','Pl Johanne / 7265',45.387756,-73.391726
+75338,'75338','Pl Johanne / 7355',45.387232,-73.387583
+75339,'75339','Pl Johanne / 7520',45.386499,-73.38977
 75340,'75340','St-Jean / Fontarabie',45.396579,-73.446601
 75341,'75341','St-Jean / Rang St-Raphaël',45.39388,-73.429912
 75342,'75342','St-Jean / Rang Lafrenière',45.391394,-73.4173
 75343,'75343','St-Jean / Monette',45.389819,-73.410929
 75344,'75344','St-Jean / Bataille',45.389248,-73.404097
-75346,'75346','Place Johanne / St-Jean',45.387584,-73.395642
-75347,'75347','Place Johanne / St-Jean',45.387587,-73.395479
+75346,'75346','Pl Johanne / St-Jean',45.387584,-73.395642
+75347,'75347','Pl Johanne / St-Jean',45.387587,-73.395479
 75349,'75349','Haendel / Flandres',45.383919,-73.525047
 75367,'75367','Paul-Gauguin / Liberté',45.373149,-73.526418
-75372,'75372','Jean-Leman / Montcalm Sud',45.380763,-73.507804
+75372,'75372','Jean-Leman / Montcalm S',45.380763,-73.507804
 75375,'75375','Flandres / Frontenac',45.382615,-73.521185
 75376,'75376','Frontenac / Flandres',45.379505,-73.521552
 75377,'75377','Flandres / Fouquet',45.378973,-73.524433
@@ -274,8 +274,8 @@
 75384,'75384','Haendel / Georges',45.380716,-73.530856
 75385,'75385','Haendel / Georges',45.380742,-73.531258
 75386,'75386','Haendel / St-François-Xavier',45.384299,-73.534088
-75387,'75387','Paul-Gauguin / Devant Le #20',45.376438,-73.529747
-75388,'75388','Rosaire-Circé / Place Dancose',45.415757,-73.484641
+75387,'75387','Paul-Gauguin / #20',45.376438,-73.529747
+75388,'75388','Rosaire-Circé / Pl Dancose',45.415757,-73.484641
 75389,'75389','Industrie / Léon-Bloy',45.403488,-73.508128
 75390,'75390','Ernest-Rochette / Patrick-McGee',45.416953,-73.482107
 75391,'75391','Ernest-Rochette / Francois-Le-Ber',45.418396,-73.478657
@@ -289,7 +289,7 @@
 75399,'75399','Taschereau / Lavoie',45.408598,-73.495889
 75400,'75400','Taschereau / Dufort',45.40973,-73.494868
 75402,'75402','Taschereau / St-Henri',45.414269,-73.491101
-75403,'75403','Haendel / Place Halifax (1)',45.386324,-73.521527
+75403,'75403','Haendel / Pl Halifax (1)',45.386324,-73.521527
 75404,'75404','Taschereau / St-José',45.406136,-73.498235
 75405,'75405','Jacques-Martin / Benoît-Charlebois I',45.392013,-73.481703
 75406,'75406','Jacques-Martin / Pompidou',45.390053,-73.486357
@@ -319,24 +319,24 @@
 75437,'75437','Briqueterie / St-José',45.398766,-73.491098
 75438,'75438','Paul-Gauguin / Liberté',45.375724,-73.530706
 75439,'75439','Paul-Gauguin / Liberté',45.373008,-73.526253
-75440,'75440','Liberté / Devant Le #315',45.370341,-73.521206
-75441,'75441','Liberté / Devant Le #330',45.370326,-73.520882
+75440,'75440','Liberté / #315',45.370341,-73.521206
+75441,'75441','Liberté / #330',45.370326,-73.520882
 75442,'75442','Liberté / Radisson',45.376565,-73.533002
 75443,'75443','Liberté / Radisson',45.376473,-73.532482
 75444,'75444','Liberté / St-François-Xavier',45.377833,-73.535574
 75445,'75445','Liberté / St-François-Xavier',45.378014,-73.535634
 75446,'75446','Paul-Gauguin / Fouquet',45.376021,-73.527914
 75447,'75447','Paul-Gauguin / Fouquet',45.376073,-73.527726
-75448,'75448','Montcalm Sud / Jean-Leman',45.380767,-73.507562
-75449,'75449','Montcalm Sud / Asselin (2)',45.384629,-73.50605
-75451,'75451','Montcalm Sud / Asselin (1)',45.382558,-73.506143
-75453,'75453','Montcalm Sud / Auteuil',45.387669,-73.50754
-75455,'75455','Barcelone / Place De Bohême',45.386403,-73.514124
-75457,'75457','Barcelone / Place De Bretagne',45.388436,-73.513694
+75448,'75448','Montcalm S / Jean-Leman',45.380767,-73.507562
+75449,'75449','Montcalm S / Asselin (2)',45.384629,-73.50605
+75451,'75451','Montcalm S / Asselin (1)',45.382558,-73.506143
+75453,'75453','Montcalm S / Auteuil',45.387669,-73.50754
+75455,'75455','Barcelone / Pl De Bohême',45.386403,-73.514124
+75457,'75457','Barcelone / Pl De Bretagne',45.388436,-73.513694
 75458,'75458','Barcelone / Jean-Leman',45.382726,-73.513488
 75459,'75459','Barcelone / Baffin',45.384482,-73.513539
-75460,'75460','Montcalm Sud / Barcelone',45.390147,-73.512447
-75461,'75461','Industrie / Devant Le #100',45.402033,-73.508434
+75460,'75460','Montcalm S / Barcelone',45.390147,-73.512447
+75461,'75461','Industrie / #100',45.402033,-73.508434
 75467,'75467','Palerme / Pinsonneault',45.402888,-73.473097
 75469,'75469','Jean-Baptiste-Varin / Palerme',45.400783,-73.475175
 75470,'75470','Palerme / Jean-Baptiste-Varin',45.400909,-73.475012
@@ -347,7 +347,7 @@
 75475,'75475','Prés-Verts / Glaïeuls',45.409186,-73.46335
 75476,'75476','Prés Verts / Feu De Circulation',45.406189,-73.463068
 75477,'75477','St-Henri / Notre-Dame',45.415746,-73.494762
-75482,'75482','Place De Chambord / Calvin',45.379884,-73.514105
+75482,'75482','Pl De Chambord / Calvin',45.379884,-73.514105
 75487,'75487','Dauphiné / Dijon',45.377599,-73.500187
 75489,'75489','Deauville / Delacroix',45.380691,-73.496718
 75490,'75490','Deauville / Duberger',45.382893,-73.49617
@@ -364,31 +364,31 @@
 75504,'75504','Jean-Leman / Dauphiné',45.3785,-73.503927
 75508,'75508','Charlemagne / Calvados',45.376786,-73.509216
 75510,'75510','Charlemagne / Chablis',45.377775,-73.514968
-75512,'75512','Charlemagne / Place De Chambord',45.381027,-73.513922
+75512,'75512','Charlemagne / Pl De Chambord',45.381027,-73.513922
 75514,'75514','Dompierre / Dauphiné',45.376238,-73.497732
 75518,'75518','Dompierre / Dijon',45.376414,-73.501005
-75520,'75520','Place De Chambord / Devant Le #58',45.377622,-73.511586
+75520,'75520','Pl De Chambord / #58',45.377622,-73.511586
 75530,'75530','Jean-Leman / Sardaigne',45.370479,-73.506422
 75531,'75531','Jean-Leman / Seine',45.368902,-73.50687
 75532,'75532','Jean-Leman / Syracuse',45.366983,-73.507513
 75533,'75533','Jean-Leman / Syracuse',45.366864,-73.507384
 75534,'75534','Jean-Leman / Seine',45.368675,-73.506773
 75535,'75535','Jean-Leman / Sardaigne',45.369932,-73.506304
-75537,'75537','Place De Chambord / Jean-Leman',45.382446,-73.513358
+75537,'75537','Pl De Chambord / Jean-Leman',45.382446,-73.513358
 75538,'75538','Jean-Leman / Bercy',45.382279,-73.511684
-75539,'75539','Jean-Leman / Devant Le #47',45.381527,-73.509971
+75539,'75539','Jean-Leman / #47',45.381527,-73.509971
 75550,'75550','Palerme / Croissant-Perlé',45.397012,-73.473386
 75551,'75551','Palerme / Belle-Dame',45.396795,-73.470636
 75552,'75552','Belle-Dame / Petit-Coliade',45.398351,-73.469278
 75553,'75553','Belle-Dame / Vice-Roi I',45.400762,-73.467443
-75560,'75560','Sarcelle / Devant La SAQ',45.372401,-73.509551
+75560,'75560','Sarcelle / SAQ',45.372401,-73.509551
 75561,'75561','Strasbourg / Walmart',45.370863,-73.513129
-75562,'75562','Strasbourg / Devant Le Costco',45.370557,-73.515758
+75562,'75562','Strasbourg / Costco',45.370557,-73.515758
 75563,'75563','Sardaigne / Strasbourg',45.368936,-73.512052
 75564,'75564','Sardaigne / Ségovie',45.370398,-73.508183
 75573,'75573','Longtin / Lamarre',45.412628,-73.49768
 75574,'75574','St-Laurent / Longtin',45.413526,-73.499278
-75575,'75575','St-Laurent (Centre Guy-Dupré)',45.415208,-73.497781
+75575,'75575','St-Laurent (Ctr Guy-Dupré)',45.415208,-73.497781
 75576,'75576','St-Laurent / St-Henri',45.416507,-73.496615
 75577,'75577','Notre-Dame / St-Henri',45.415871,-73.494627
 75578,'75578','Longtin / St-Laurent',45.413421,-73.499113
@@ -398,15 +398,15 @@
 75601,'75601','Belle-Dame / Palerme',45.397017,-73.470542
 75602,'75602','Belle-Dame / Monarque',45.3985,-73.469342
 75603,'75603','Belle-Dame / Damier-Argenté',45.400923,-73.467495
-75640,'75640','Stat Incitatif Candiac - Quai 3',45.393444,-73.516703
-75641,'75641','Stat Incitatif Candiac - Quai 1',45.39339,-73.517084
-75642,'75642','Stat Incitatif Candiac - Quai 2',45.393408,-73.516909
-75643,'75643','Stat Incitatif Candiac - Quai 3',45.393426,-73.516712
-75644,'75644','Stat Incitatif Candiac - Quai 4',45.393456,-73.516439
-75645,'75645','Stat Incitatif Candiac - Quai 5',45.393491,-73.516224
-75647,'75647','Stat Incitatif La Prairie Quai 2',45.426217,-73.481056
-75648,'75648','Stat Incitatif La Prairie Quai 3',45.425881,-73.480795
-75649,'75649','Stat Incitatif La Prairie Quai 4',45.425948,-73.480553
-75650,'75650','Stat Incitatif La Prairie Quai 5',45.42588,-73.480308
-75651,'75651','Stat Incitatif La Prairie Quai Taxi',45.426105,-73.480613
+75640,'75640','P+R Candiac Q:3',45.393444,-73.516703
+75641,'75641','P+R Candiac Q:1',45.39339,-73.517084
+75642,'75642','P+R Candiac Q:2',45.393408,-73.516909
+75643,'75643','P+R Candiac Q:3',45.393426,-73.516712
+75644,'75644','P+R Candiac Q:4',45.393456,-73.516439
+75645,'75645','P+R Candiac Q:5',45.393491,-73.516224
+75647,'75647','P+R La Prairie Q:2',45.426217,-73.481056
+75648,'75648','P+R La Prairie Q:3',45.425881,-73.480795
+75649,'75649','P+R La Prairie Q:4',45.425948,-73.480553
+75650,'75650','P+R La Prairie Q:5',45.42588,-73.480308
+75651,'75651','P+R La Prairie Q:Taxi',45.426105,-73.480613
 75652,'75652','Jean-Baptiste-Varin / Médard-Hébert',45.397672,-73.482877
