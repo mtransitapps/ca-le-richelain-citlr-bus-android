@@ -1,0 +1,44 @@
+1101,0,'P+R Candiac',11
+1100,0,'St-Phillipe',11
+2100,0,'AM',21
+2101,0,'PM',21
+2201,0,'Champs-Fleuris<>de La Magdeleine',22
+2300,0,'Briqueterie<>Palerme',23
+2500,0,'Symbiocité',25
+2800,0,'Prairie',28
+2900,0,'Prairie',29
+3100,0,'AM',31
+3101,0,'PM',31
+3200,0,'Deauville<>Charlemagne<>Barcelone',32
+3300,0,'St-François-Xav<>Fouquet<>Haendel',33
+3800,0,'Auteuil<>Deauville<>Barcelone',38
+3900,0,'St-José<>St-F-X<>Fouquet<>Haendel',39
+12300,0,'Prairie',123
+12301,0,'Term Mansfield',123
+12400,0,'Prairie',124
+12401,0,'Term Mansfield',124
+23000,0,'Prairie<>Dix30',230
+32100,0,'Prairie',321
+32101,0,'Term Ctr-Ville',321
+32300,0,'Candiac',323
+32301,0,'Term Ctr-Ville',323
+340019,0,'Longueuil-Édouard-M<>La Prairie-Candiac',340
+34101,0,'Cégep Édouard-M<>Longueuil<>La Prairie',341
+34100,0,'Longueuil<>Cégep Édouard-M<>La Prairie',341
+34301,0,'Cégep Édouard-M<>Longueuil<>Candiac',343
+34300,0,'Longueuil<>Cégep Édouard-M<>Candiac',343
+2000001101,0,'P+R Candiac',20000011
+2000001100,0,'St-Phillipe',20000011
+2000001200,0,'P+R La Prairie',20000012
+2000001201,0,'Édouard-XII',20000012
+2000002200,0,'Clairière',20000022
+2000002701,0,'P+R La Prairie',20000027
+2000002700,0,'Pl Johanne',20000027
+2000002801,0,'P+R La Prairie',20000028
+2000003500,0,'P+R Candiac',20000035
+2000003501,0,'Sect Ind Candiac',20000035
+2000003600,0,'Gare Candiac',20000036
+2000003601,0,'P+R Candiac',20000036
+2000003700,0,'Strasbourg',20000037
+2000005100,0,'Candiac',20000051
+2000005101,0,'Term Panama',20000051
