@@ -13,13 +13,20 @@
 3300,0,'St-François-Xav<>Fouquet<>Haendel',33
 3800,0,'Auteuil<>Deauville<>Barcelone',38
 3900,0,'St-José<>St-F-X<>Fouquet<>Haendel',39
+12300,0,'Prairie',123
+12301,0,'Term Mansfield',123
+12400,0,'Prairie',124
+12401,0,'Term Mansfield',124
 23000,0,'Prairie<>Dix30',230
 32100,0,'Prairie',321
 32101,0,'Term Ctr-Ville',321
 32300,0,'Candiac',323
 32301,0,'Term Ctr-Ville',323
-340019,0,'Longueuil',340
-340029,0,'Longueuil-Édouard-M<>La Prairie-Candiac',340
+340019,0,'Longueuil-Édouard-M<>La Prairie-Candiac',340
+34101,0,'Cégep Édouard-M<>Longueuil<>La Prairie',341
+34100,0,'Longueuil<>Cégep Édouard-M<>La Prairie',341
+34301,0,'Cégep Édouard-M<>Longueuil<>Candiac',343
+34300,0,'Longueuil<>Cégep Édouard-M<>Candiac',343
 2000001101,0,'P+R Candiac',20000011
 2000001100,0,'St-Phillipe',20000011
 2000001200,0,'P+R La Prairie',20000012
