@@ -1,2 +1,1 @@
-exo Le Richelain buses for MonTransit.
-Schedule. News.
+exo Le Richelain buses for MonTransit. Schedule. News.
