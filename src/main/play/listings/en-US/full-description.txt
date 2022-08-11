@@ -1,6 +1,6 @@
 This application adds exo Le Richelain buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @exo_LeRichelain on Twitter.
+This app contains the buses schedule and the latest news from @exo_Sud on Twitter.
 
 exo Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
 
