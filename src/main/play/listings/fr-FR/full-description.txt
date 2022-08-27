@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Le Richelain à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_LeRichelain sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_Sud sur Twitter.
 
 exo Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
