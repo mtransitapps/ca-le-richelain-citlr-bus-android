@@ -1,5 +1,5 @@
 1101,0,'P+R Candiac',11
-1100,0,'St-Phillipe',11
+1100,0,'St-Philippe',11
 2100,0,'AM',21
 2101,0,'PM',21
 2201,0,'Champs-Fleuris<>de La Magdeleine',22
@@ -31,7 +31,7 @@
 34301,0,'Cégep Édouard-M<>Longueuil<>Candiac',343
 34300,0,'Longueuil<>Cégep Édouard-M<>Candiac',343
 2000001101,0,'P+R Candiac',20000011
-2000001100,0,'St-Phillipe',20000011
+2000001100,0,'St-Philippe',20000011
 2000001200,0,'P+R La Prairie',20000012
 2000001201,0,'Édouard-XII',20000012
 2000002200,0,'Clairière',20000022
@@ -43,5 +43,5 @@
 2000003600,0,'Gare Candiac',20000036
 2000003601,0,'P+R Candiac',20000036
 2000003700,0,'Strasbourg',20000037
-2000005100,0,'Candiac',20000051
-2000005101,0,'Term Panama',20000051
+2000005100,0,'N',20000051
+2000005101,0,'S',20000051
