@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Le Richelain à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_Sud sur Twitter.
+Cette application contient les horaires planifiés ainsi que l'état de service en temps réel et les dernières nouvelles de exo.quebec, @allo_exo et @exo_Sud sur Twitter.
 
 exo Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
@@ -22,4 +22,4 @@ exo Le Richelain était précédemment connu sous le nom de RTM Secteur Le Riche
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
-- Autres: requis pour lire les nouvelles (Twitter)
+- Autres : requis pour les états de service en temps réel et pour lire les nouvelles de exo.quebec et Twitter.
