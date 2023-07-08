@@ -8,7 +8,7 @@
     <string name="gtfs_real_time_agency_service_alerts_url">https://opendata.exo.quebec/ServiceGTFSR/Alert.pb?token=%s&amp;agency=CITLR</string>
     <string name="gtfs_real_time_agency_id">CITLR</string>
     <!-- agency feed contains "en" & "fr" but "en" is empty -->
-    <string name="gtfs_real_time_agency_bold_words">(retard (d\'environ|de)? \\d+ minutes?|un (léger )?retard|ralentissement de service|interrompu|reloalis[e|é]|annul\\S*|ne (peut être|sera (plus|pas)) desservi|n\'effectuera pas son d[é|e]part)</string>
+    <string name="gtfs_real_time_agency_bold_words">(retard (d[\'|’]environ|de)? \\d+min(ute)?s?|(un )?(léger )?retard|ralentissement de service|interrompu|reloalis[e|é]|annul\\S*|ne (peut être|sera (plus|pas)) desservi|n[\'|’]effectuera pas son d[é|e]part)</string>
     <string-array name="gtfs_real_time_agency_extra_languages">
         <item>fr</item>
     </string-array>
