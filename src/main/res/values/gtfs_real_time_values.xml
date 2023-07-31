@@ -10,7 +10,7 @@
     <!-- agency feed contains "en" & "fr" but "en" is empty -->
     <string name="gtfs_real_time_agency_bold_words">(retard (d[\'|’]environ|de)? \\d+min(ute)?s?|(un )?(léger )?retard|ralentissement de service|interrompu|reloalis[e|é]|annul\\S*|ne (peut être|sera (plus|pas)) desservi|n[\'|’]effectuera pas son d[é|e]part)</string>
     <string-array name="gtfs_real_time_agency_extra_languages">
-        <item>fr</item>
+        <!--<item>fr</item>--><!-- agency feed contains "en" & "fr" but "en" is empty -->
     </string-array>
     <string-array name="gtfs_real_time_agency_extra_bold_words">
         <item>@string/gtfs_real_time_agency_bold_words</item>
