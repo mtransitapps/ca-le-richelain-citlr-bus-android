@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MonTransit exo Le Richelain Bus</string>
-    <string name="app_desc">Données des autobus du exo Le Richelain pour MonTransit.</string>
+    <string name="app_name">MonTransit exo Le Richelain / Roussillon Bus</string>
+    <string name="app_desc">Données des autobus du exo Le Richelain / Roussillon pour MonTransit.</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">MonTransit exo Le Richelain Bus</string>
-    <string name="app_desc">exo Le Richelain bus data for MonTransit.</string>
+    <string name="app_name">MonTransit exo Le Richelain / Roussillon Bus</string>
+    <string name="app_desc">exo Le Richelain / Roussillon bus data for MonTransit.</string>
 </resources>

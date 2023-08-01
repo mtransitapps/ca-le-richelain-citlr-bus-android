@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="gtfs_rts_label">exo Le Richelain Bus</string>
-    <string name="gtfs_rts_short_name">exo Le Richelain</string>
+    <string name="gtfs_rts_label">exo Le Richelain / Roussillon Bus</string>
+    <string name="gtfs_rts_short_name">exo Le Richelain / Roussillon</string>
 </resources>
