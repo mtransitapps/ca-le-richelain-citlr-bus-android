@@ -1,8 +1,8 @@
-This application adds exo Le Richelain buses information to MonTransit.
+This application adds exo Le Richelain / Roussillon buses information to MonTransit.
 
 This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
 
-exo Le Richelain serves Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
+exo Le Richelain / Roussillon serves Delson, Saint-Constant, Sainte-Catherine, Brossard, Candiac, La Prairie, Longueuil, Montreal and Saint-Philippe.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -18,7 +18,7 @@ https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Le Richelain.
 
-exo Le Richelain was formerly known as RTM Le Richelain sector and CIT Le Richelain.
+exo Le Richelain / Roussillon was formerly known as RTM Le Richelain sector and CIT Le Richelain / CIT Roussillon.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:

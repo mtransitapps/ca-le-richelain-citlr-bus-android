@@ -1,8 +1,8 @@
-Cette application ajoute les informations des autobus exo Le Richelain à MonTransit.
+Cette application ajoute les informations des autobus exo Le Richelain / Roussillon à MonTransit.
 
 Cette application contient les horaires planifiés ainsi que l'état de service en temps réel et les dernières nouvelles de exo.quebec, @allo_exo et @exo_Sud sur Twitter.
 
-exo Le Richelain dessert Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
+exo Le Richelain / Roussillon dessert Delson, Saint-Constant, Sainte-Catherine, Brossard, Candiac, La Prairie, Longueuil, Montreal et Saint-Philippe.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -18,7 +18,7 @@ https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
 Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Le Richelain.
 
-exo Le Richelain était précédemment connu sous le nom de RTM Secteur Le Richelain et CIT Le Richelain.
+exo Le Richelain / Roussillon était précédemment connu sous le nom de RTM Secteur Le Richelain et CIT Le Richelain / CIT Le Roussillon.
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
