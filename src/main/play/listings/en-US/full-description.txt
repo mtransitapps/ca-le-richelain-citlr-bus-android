@@ -10,15 +10,15 @@ This application only has a temporary icon: download the MonTransit app (free) i
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the Réseau de Transport Métropolitain (RTM).
+The information comes from the GTFS file provided by exo.
 https://exo.quebec/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
 
-This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Le Richelain.
+This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Le Richelain / Roussillon.
 
-exo Le Richelain / Roussillon was formerly known as RTM Le Richelain sector and CIT Le Richelain / CIT Roussillon.
+exo Le Richelain / Roussillon was formerly known as RTM Le Richelain / CIT Roussillon sector and CIT Le Richelain / CIT Roussillon.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
