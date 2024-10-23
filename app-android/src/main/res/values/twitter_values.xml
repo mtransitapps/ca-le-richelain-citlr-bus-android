@@ -8,6 +8,10 @@
         <item>allo_exo</item>
         <item>exo_Sud</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>245789900</item>
+        <item>1577708024</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>
