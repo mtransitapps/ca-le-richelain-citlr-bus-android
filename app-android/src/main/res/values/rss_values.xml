@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">3</integer>
-    <string name="rss_authority">org.mtransit.android.ca_le_richelain_citlr_bus.news.rss</string>
+    <integer name="rss_db_version">4</integer>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
+    <bool name="rss_use_custom_ssl_certificate">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
         <item>https://exo.quebec/rss?projection=1568</item>
+        <item>https://exo.quebec/rss?projection=1773</item>
+        <item>https://exo.quebec/rss?projection=1973</item>
     </string-array>
     <string-array name="rss_feeds_author_icon">
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
         <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>exo (Avis à la clientèle)</item>
+        <item>exo (Nouvelles)</item>
+        <item>exo (Communiqués de presse)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://exo.quebec/fr/service-clientele/avis</item>
+        <item>https://exo.quebec/fr/actualites/nouvelles-evenements</item>
+        <item>https://exo.quebec/fr/a-propos/medias-publications/communiques-presse</item>
     </string-array>
     <string-array name="rss_feeds_label">
+        <item>exo.quebec</item>
+        <item>exo.quebec</item>
         <item>exo.quebec</item>
     </string-array>
     <string-array name="rss_feeds_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
     <string-array name="rss_feeds_colors">
+        <item>@string/rss_color</item>
+        <item>@string/rss_color</item>
         <item>@string/rss_color</item>
     </string-array>
     <string-array name="rss_feeds_target">
         <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/rss_target_for_poi_authority</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="rss_feeds_noteworthy">
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
         <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
     <string-array name="rss_feeds_ignore_guid">
         <item>false</item>
+        <item>false</item>
+        <item>false</item>
     </string-array>
     <string-array name="rss_feeds_ignore_link">
+        <item>false</item>
+        <item>false</item>
         <item>false</item>
     </string-array>
 </resources>
