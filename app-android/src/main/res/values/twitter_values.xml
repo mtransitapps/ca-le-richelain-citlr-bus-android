@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">9</integer>
+    <integer name="twitter_db_version">10</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
-        <item>allo_exo</item><!-- similar to RSS-->
         <item>exo_Sud</item>
+        <!-- <item>allo_exo</item> --><!-- similar to RSS-->
     </string-array>
     <string-array name="twitter_screen_names_id">
-        <item>245789900</item>
         <item>1577708024</item>
+        <item>245789900</item>
     </string-array>
     <integer-array name="twitter_screen_names_severity">
-        <item>@integer/news_provider_severity_info_unknown</item>
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_unknown</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
-        <item>@string/news_provider_noteworthy_long_term</item>
         <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
 </resources>
