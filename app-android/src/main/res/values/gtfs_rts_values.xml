@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://exo.quebec/en/customer-service</string>
     <string name="gtfs_rts_contact_us_fr">https://exo.quebec/fr/service-clientele</string>
+    <string name="gtfs_rts_fares">https://exo.quebec/en/fares</string>
+    <string name="gtfs_rts_fares_fr">https://exo.quebec/fr/titres-tarifs</string>
 </resources>
