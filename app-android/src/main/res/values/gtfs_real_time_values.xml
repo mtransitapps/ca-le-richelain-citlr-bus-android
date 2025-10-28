@@ -4,7 +4,7 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">true</bool>
     <bool name="gtfs_real_time_route_id_is_route_short_name">true</bool>
-    <string name="gtfs_real_time_agency_service_alerts_url">https://opendata.exo.quebec/ServiceGTFSR/Alert.pb?token=%s&amp;agency=LRRS</string>
+    <string name="gtfs_real_time_agency_service_alerts_url">https://exo.chrono-saeiv.com/api/opendata/v1/LRRS/alert?token=%s</string>
     <!-- agency feed contains "en" & "fr" but "en" is empty -->
     <string name="gtfs_real_time_agency_bold_words">(n[\'|’]effectuera pas son d[é|e]part)</string>
     <string-array name="gtfs_real_time_agency_extra_languages">
