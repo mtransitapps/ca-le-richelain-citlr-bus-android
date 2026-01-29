@@ -6,4 +6,6 @@
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Montreal</string>
     <string name="gtfs_rts_color">1F1F1F</string>
+    <string name="gtfs_rts_service_id_cleanup_regex">^LRRS\\-\\w{1}\\d{2}\\-(RRS_GTFS|GTFS_LRR)\\-</string>
+    <string name="gtfs_rts_trip_id_cleanup_regex">LRRS\\-\\w{1}\\d{2}\\-(RRS_GTFS|GTFS_LRR)\\-</string>
 </resources>
