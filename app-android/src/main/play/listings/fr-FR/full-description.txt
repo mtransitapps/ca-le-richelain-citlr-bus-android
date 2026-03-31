@@ -10,11 +10,11 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
-https://exo.quebec/fr/a-propos/donnees-ouvertes
-
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-le-richelain-citlr-bus-android
+
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://exo.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Le Richelain.
 
