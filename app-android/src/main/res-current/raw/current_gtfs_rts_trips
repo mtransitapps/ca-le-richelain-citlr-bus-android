@@ -21,7 +21,7 @@
 15201,0,'Delson',152
 15301,0,'St-Constant',153
 15400,0,'Ste-Catherine',154
-15501,0,'Delson<>St-Constant / St-Constant<>Delson',155
+15501,0,'Delson<>St-Constant',155
 15601,0,'St-Constant',156
 15700,0,'Ste-Catherine',157
 15801,0,'Ste-Catherine',158
@@ -67,5 +67,5 @@
 55600,0,'Term Angrignon',556
 65001,0,'Term Georges-Gagné',650
 65000,0,'Term Panama',650
-65100,0,'Longueuil / Term Panama',651
+65100,0,'Longueuil',651
 65101,0,'Term Georges-Gagné',651
