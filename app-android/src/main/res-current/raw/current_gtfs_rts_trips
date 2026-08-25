@@ -48,8 +48,6 @@
 45600,0,'Term Brossard',456
 45701,0,'St-Philippe',457
 45700,0,'Term Brossard',457
-45801,0,'Term La Prairie',458
-45800,0,'Term Panama',458
 45901,0,'Term Montcalm-Candiac',459
 45900,0,'Term Panama',459
 55000,0,'Longueuil',550
@@ -65,7 +63,3 @@
 55500,0,'Longueuil',555
 55501,0,'Term Georges-Gagné',555
 55600,0,'Term Angrignon',556
-65001,0,'Term Georges-Gagné',650
-65000,0,'Term Panama',650
-65100,0,'Longueuil',651
-65101,0,'Term Georges-Gagné',651
