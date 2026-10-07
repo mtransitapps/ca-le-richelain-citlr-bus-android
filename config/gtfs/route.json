@@ -1,0 +1,56 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_cleaners": [
+        {
+            "regex": "T-(\\d+)",
+            "ignore_case": true,
+            "replacement": "T$1"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "direction_finder_disabled_until_not": {},
+    "direction_finder_disabled_until_comment_111_not": "Official website/app has unmerged direction as well",
+    "direction_headsign_cleaners": [
+        {
+            "regex": "( (am|pm)$)",
+            "ignore_case": true,
+            "comment": "remove am/pm at the end of the direction headsign"
+        }
+    ],
+    "trip_id_cleanup_regex": "LRRS\\-\\w{1}\\d{2}\\-(RRS_GTFS|GTFS_LRR)\\-",
+    "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(.+ (anti\\-horaire|horaire))",
+            "ignore_case": true,
+            "replacement": "$2",
+            "comment": "keep only the direction part (anti-horaire or horaire)  "
+        },
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "( - | – )",
+            "replacement": "<>",
+            "replacement_comment": "save 1 ' ' character"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "( - | – )",
+            "replacement": " ",
+            "replacement_comment": "save 2 characters"
+        },
+        {
+            "regex": "devant",
+            "ignore_case": true,
+            "is_word": true
+        }
+    ],
+    "use_stop_id_for_stop_code": true,
+    "use_stop_code_for_stop_id": true
+}
