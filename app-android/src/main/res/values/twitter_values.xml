@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">10</integer>
-    <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
         <item>exo_Sud</item>
-        <!-- <item>allo_exo</item> --><!-- similar to RSS-->
+        <item>allo_exo</item>
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>1577708024</item>

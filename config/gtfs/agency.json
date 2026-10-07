@@ -1,0 +1,10 @@
+{
+    "target_route_type_id": 3,
+    "default_color_enabled": true,
+    "default_color": "1F1F1F",
+    "default_color_comment": "dark gray (from routes.txt)",
+    "default_strings_cleaner_enabled": true,
+    "service_id_clean_merged": true,
+    "service_id_cleanup_regex": "^LRRS\\-\\w{1}\\d{2}\\-(RRS_GTFS|GTFS_LRR)\\-",
+    "service_id_cleanup_regex_comment": "remove beginning of service ID shared by all service IDs (include season letter and YY year)"
+}
