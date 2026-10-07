@@ -10,8 +10,6 @@
     ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
-    "direction_finder_disabled_until_not": {},
-    "direction_finder_disabled_until_comment_111_not": "Official website/app has unmerged direction as well",
     "direction_headsign_cleaners": [
         {
             "regex": "( (am|pm)$)",
